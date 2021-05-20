@@ -6,7 +6,7 @@ I have created this Flutter project as a part of learning process.
 <h3 > ChatApp </h3>
 <br>
 <p align="center">
-<img src ="https://j.gifs.com/nR5704.gif" width = 100px height=250px>
+<img src ="https://j.gifs.com/nR5704.gif" width = 250px height=400px>
 </p>
 
 </div>
